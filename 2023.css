@@ -1,0 +1,23 @@
+body {
+  color: white;
+  background-color: black;
+}
+#ea {
+  font-size: 28px;
+  font-family: "Silkscreen", cursive;
+  text-align: center;
+}
+
+#dos {
+  text-align: center;
+  font-size: 18px;
+  font-family: ;
+}
+
+#DevSecret {
+  font-size: 8px;
+  position: fixed;
+  top: 79%;
+  left: 95%;
+  color: rgb(73, 73, 73);
+}

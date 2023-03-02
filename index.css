@@ -1,0 +1,28 @@
+body {
+  background-image: url("DELTARANDO.png");
+  color: rgb(248, 105, 23);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+#ea {
+  font-size: 28px;
+  font-family: "Silkscreen", cursive;
+  text-align: center;
+}
+
+#dos {
+  text-align: center;
+  font-size: 18px;
+  font-family: ;
+}
+
+#devnote {
+  color: rgb(83, 229, 255);
+  width: 75px;
+  position: fixed;
+  top: 55%;
+  bottom: 25%;
+  left: 50%;
+}

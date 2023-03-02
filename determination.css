@@ -1,0 +1,25 @@
+body {
+  color: white;
+  background-color: black;
+}
+#ea {
+  font-size: 28px;
+  font-family: "Silkscreen", cursive;
+  text-align: center;
+}
+
+#dos {
+  text-align: center;
+  font-size: 18px;
+  font-family: ;
+}
+
+#devnote {
+  font-size: 9px;
+  width: 75px;
+  position: fixed;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  top: 46%;
+  left: 58%;
+  color: rgb(29, 29, 29);
+}
